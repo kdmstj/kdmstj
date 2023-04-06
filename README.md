@@ -1,8 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a3cca3&height=200&section=header&text=kdmstj%20Github&fontSize=30&fontColor=454440&animation=fadeIn&fontAlign=75&fontAlignY=40" />
 </div>
-
-<br>
 <div align=center>
 	<h2> 안녕하세요! 제 깃허브에 방문해주셔서 감사합니다 🥳</h2>
 </div>
