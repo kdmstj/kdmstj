@@ -37,7 +37,7 @@
 <br>
 <div align=center>
 	<h3> 👩🏻‍💻 About ME </h3>
-	<a href="[https://kdmstj-codestate.notion.site/be5e8c35b63e4712baff21d89221057b]" target="_blank"><img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white"/>    
+	<a href="https://kdmstj-codestate.notion.site/be5e8c35b63e4712baff21d89221057b" target="_blank"><img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white"/>    
 </div>
 
 <br>
