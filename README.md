@@ -37,8 +37,9 @@
 <br>
 <div align=center>
 	<h3> 👩🏻‍💻 About ME </h3>
-	<a href='https://kdmstj-codestate.notion.site/3169992ffcf24ac98ad029aa2fe124e5?pvs=4' target='_blank'><img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white"/>    
+	<a href='https://drive.google.com/file/d/1PwDWhXuRg8UXMbyoYwn-r9aOiGkGxHQI/view?usp=sharing' target='_blank'><img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white"/>    
 </div>
+
 
 <br>
 
