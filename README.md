@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=a3cca3&height=200&section=header&text=kdmstj%20Github&fontSize=30&fontColor=454440&animation=fadeIn&fontAlign=75&fontAlignY=40" />
 </div>
 <div align=center>
-	<h2> 안녕하세요! 제 깃허브에 방문해주셔서 감사합니다 🥳</h2>
+	<h2> Hello! Thank you for visiting my GitHub 🥳</h2>
 </div>
 
 <br>
 <div align=center>
-	<p> 서비스를 이용하여 불편함을 해소하고 싶은 사람들이 되레 불편함을 겪지 않도록 </br>안정성 있고 좋은 사용자 경험을 제공하는 서비스를 개발하는 개발자가 되고 싶습니다.</p>
+	<p> I strive to be a developer who creates reliable and user-friendly services, </br>ensuring that people seeking solutions to their inconveniences enjoy a seamless and satisfying user experience.</p>
 </div>
 
 
@@ -46,7 +46,11 @@
 
 
 <br>
-# [Boj](https://www.acmicpc.net/) Stats
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddmstj429)](https://solved.ac/rkddmstj429)<br><br><br>
+<br>
+<div align=center>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddmstj429)](https://solved.ac/rkddmstj429/)
+</div
+
+
 
