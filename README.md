@@ -46,5 +46,7 @@
 
 
 <br>
-
+# [Boj](https://www.acmicpc.net/) Stats
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkddmstj429)](https://solved.ac/rkddmstj429)<br><br><br>
 
