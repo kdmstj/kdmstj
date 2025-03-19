@@ -39,7 +39,7 @@
 <br>
 <div align=center>
 	<h3> 👩🏻‍💻 About ME </h3>
-	<a href="https://drive.google.com/file/d/1-SEkOki3POrpoIZ21r28zm64wxuNRJc-/view?usp=sharing" target="_blank">
+	<a href="https://drive.google.com/file/d/1TzHEZp1bFdFEozDBAZ8wKFrBNpJ1bbEd/view?usp=sharing" target="_blank">
     	<img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white" alt="About Me"/>
 	</a>    
 </div>
