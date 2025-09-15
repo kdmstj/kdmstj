@@ -27,11 +27,17 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/AmazonAws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />	
+	<br>
+	<br>
+	
 </div>
 
 <br>
 <div align=center>
 	<h3> 👩🏻‍💻 About ME </h3>
+	<a href="https://hhpluscertificateofcompletion.oopy.io/">
+	  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+	</a>
 	<a href="https://drive.google.com/file/d/1ILIT8nF7PQgbcJu0Q-6oRzXpW2BdoGGD/view?usp=sharing" target="_blank">
     	<img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white" alt="About Me"/>
 	</a>    
