@@ -38,8 +38,8 @@
 	<a href="https://hhpluscertificateofcompletion.oopy.io/">
 	  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 	</a>
-	<a href="https://drive.google.com/file/d/1M9q9-WEd32KcZH-6RjwyiH0v48Ma2Orb/view?usp=sharing" target="_blank">
-    	<img src="https://img.shields.io/badge/About.Me-00A98F?style=flat&logoColor=white" alt="About Me"/>
+	<a href="https://drive.google.com/file/d/1iJMvVqH9mdTnqXZesvLoTPQf7qnYnfJr/view?usp=sharing" target="_blank">
+    	<img src="https://img.shields.io/badge/PORTFOLIO-00A98F?style=flat&logoColor=white" alt="PORTFOLIO"/>
 	</a>    
 </div>
 
